@@ -1,0 +1,1 @@
+//INSERT INTO Person (name, surname, age) VALUES (Jakov, Halic, 21);
